@@ -9,7 +9,7 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
-<h1>Hello from the codespace!</h1>
+# Code with GitHub Codespaces and Visual Studio Code
 
 _Develop code using GitHub Codespaces and Visual Studio Code!_
 
